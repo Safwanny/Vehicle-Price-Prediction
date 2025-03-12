@@ -2,6 +2,7 @@
 a Linear regression model for predicting vehicle prices 
 
 extensive preprocessing was done before applying a regression model
+
 -Handling of missing values
 -dealing with outliers (extreme cases)
 -checking for multicollinearity
